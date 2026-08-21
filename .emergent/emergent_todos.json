@@ -1,0 +1,62 @@
+[
+  {
+    "content": "Pulihkan repo sipro ke /app + dependensi + services RUNNING (POC 49 PASS 96 checks)",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 2.0: testIds P49 + util unduh berkas",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 2.1: UI Penutupan Buku (49A checklist+hold/override, 49B tutup tahun) di /accounting",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 2.2: UI Paket Laporan Owner (49D) + Arus Kas per Proyek (49C) di /accounting/reports",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 2.3: UI e-Faktur Ekspor (49E) di /tax",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 2.4: UI Bukti Potong e-Bupot (49F) di /tax",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 2.5: UI Rekap SPT Masa PPN (49G) di /tax",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 2.6: Dialog bayar tagihan AP dengan opsi Potong PPh",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 2.7: Verifikasi kompilasi frontend + screenshot semua tab baru",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 3.1: seed_phase49.py idempoten (demo fase49) + POC tetap hijau",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 3.2: Gate 37 verify_closing.py + Gate 38 verify_tax_compliance.py + daftar ke run_all_gates.sh",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 3.3: scripts/mutasi_49.py (24 mutasi) — sedang berjalan, semua harus TERTANGKAP",
+    "status": "in_progress"
+  },
+  {
+    "content": "Fase 3.4: Update dokumen (spec 43, CODEBASE_MAP, test_credentials, test_result, plan)",
+    "status": "in_progress"
+  },
+  {
+    "content": "Fase 3.5: E2E multi-peran via testing_agent_v3 + perbaikan temuan",
+    "status": "pending"
+  },
+  {
+    "content": "Fase 3.6: Jalankan bash scripts/run_all_gates.sh sampai OVERALL PASS (38 gates)",
+    "status": "pending"
+  }
+]
